@@ -1,4 +1,4 @@
-package pagination;
+package oracle.pagination;
 
 public class Pagination {
 
